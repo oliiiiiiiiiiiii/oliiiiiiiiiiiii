@@ -6,6 +6,6 @@
 - looking to collaborate with other content developers
 
 ### Languages I Know:
-- 🐍 Python
-- 💻 HTML/CSS
-- 🖥️ Javascript
+-Python
+-HTML/CSS
+-Javascript
