@@ -7,5 +7,7 @@
 
 ### Languages I Know:
 -Python
+
 -HTML/CSS
+
 -Javascript
