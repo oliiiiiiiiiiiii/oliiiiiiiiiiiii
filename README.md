@@ -14,3 +14,7 @@
 # My stats
 
 ![oliiiiiiiiiiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliiiiiiiiiiiii&count_private=true&show_icons=true&theme=radical)
+
+# Languages
+
+[![oliiiiiiiiiiiii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliiiiiiiiiiiii)](https://github.com/oliiiiiiiiiiiii/github-readme-stats)
