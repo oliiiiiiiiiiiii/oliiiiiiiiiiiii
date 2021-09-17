@@ -7,7 +7,9 @@
 
 ### Languages I Know:
 -Python
-
 -HTML/CSS
-
 -Javascript
+-Typescript
+-Rust
+
+oliiiiiiiiiiiii
