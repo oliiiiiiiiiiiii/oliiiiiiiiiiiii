@@ -6,14 +6,12 @@
 - looking to collaborate with other content developers
 
 ### Languages I Know:
--Python
+<ui>
+  <li>Python</li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+  <li>Typescript</li>
+  <li>Rust</li>
+</ul>
 
--HTML/CSS
-
--Javascript
-
--Typescript
-
--Rust
-
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=oliiiiiiiiiiiii&count_private=true&show_icons=true&theme=radical)
+![oliiiiiiiiiiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliiiiiiiiiiiii&count_private=true&show_icons=true&theme=radical)
