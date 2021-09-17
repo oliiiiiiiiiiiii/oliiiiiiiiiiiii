@@ -15,7 +15,5 @@
 # My stats
 
 ![oliiiiiiiiiiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliiiiiiiiiiiii&count_private=true&show_icons=true&theme=radical)
-
-# Languages
-
+&nbsp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliiiiiiiiiiiii&layout=compact)](https://github.com/oliiiiiiiiiiiii/github-readme-stats&count_private=true&show_icons=true&theme=monokai)
