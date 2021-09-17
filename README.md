@@ -6,10 +6,10 @@
 
 <ui>
   <li><button>Python</button></li>
-  <li>HTML/CSS</li>
-  <li>Javascript</li>
-  <li>Typescript</li>
-  <li>Rust</li>
+  <li><button>HTML/CSS</button></li>
+  <li><button>Javascript</button></li>
+  <li><button>Typescript</button></li>
+  <li><button>Rust</button></li>
 </ul>
 
 # My stats
