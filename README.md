@@ -18,4 +18,4 @@
 
 # Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliiiiiiiiiiiii&layout=compact)](https://github.com/oliiiiiiiiiiiii/github-readme-stats&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliiiiiiiiiiiii&layout=compact)](https://github.com/oliiiiiiiiiiiii/github-readme-stats&count_private=true&show_icons=true&theme=monokai)
