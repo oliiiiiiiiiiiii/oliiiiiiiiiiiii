@@ -17,4 +17,5 @@
 
 # Languages
 
-[![oliiiiiiiiiiiii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliiiiiiiiiiiii)](https://github.com/oliiiiiiiiiiiii/github-readme-stats)
+([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliiiiiiiiiiii&layout=compact)](https://github.com/oliiiiiiiiiiii/github-readme-stats)
+)
