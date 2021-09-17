@@ -5,7 +5,7 @@
 ### Languages I Know:
 
 <ui>
-  <li><>Python</li>
+  <li>Python</li>
   <li>HTML/CSS</li>
   <li>Javascript</li>
   <li>Typescript</li>
