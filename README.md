@@ -12,4 +12,4 @@
 -Typescript
 -Rust
 
-oliiiiiiiiiiiii
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=oliiiiiiiiiiiii&count_private=true)
