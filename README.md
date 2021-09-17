@@ -5,11 +5,11 @@
 ### Languages I Know:
 
 <ui>
-  <li><>Python</button></li>
-  <li><button border = 2, bgcolor = #000000>HTML/CSS</button></li>
-  <li><button border = 2, bgcolor = #000000>Javascript</button></li>
-  <li><button border = 2, bgcolor = #000000>Typescript</button></li>
-  <li><button border = 2, bgcolor = #000000>Rust</button></li>
+  <li><>Python</li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+  <li>Typescript</li>
+  <li>Rust</li>
 </ul>
 
 # My stats
