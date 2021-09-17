@@ -2,9 +2,6 @@
 
 ## I'm a Student and a Developer
 
-- learning Web Development
-- looking to collaborate with other content developers
-
 ### Languages I Know:
 <ui>
   <li>Python</li>
