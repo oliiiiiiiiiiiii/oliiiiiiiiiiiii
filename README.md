@@ -1,4 +1,4 @@
-### Hi there, I'm Oli
+### Hi there, I'm Sio
 
 ## I'm a Student and a Developer
 
